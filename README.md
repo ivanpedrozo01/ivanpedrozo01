@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanpedrozo01
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Data Analytics and Data Science in Phyton
-- 💞️ I’m looking to collaborate on Linear Regretion Models (Predictive)
+- 💞️ I’m looking to collaborate on Linear Regression Models (Predictive)
 - 📫 How to reach me: Find me on Linkedin following this link https://www.linkedin.com/in/ivanpedrozoc/
 
 <!---
